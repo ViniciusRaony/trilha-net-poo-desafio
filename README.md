@@ -20,3 +20,15 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Como executar o Projeto
+
+Usando Docker (é pré-requisito ter o docker instalado na máquina)
+- Iniciar build e run da aplicação:
+
+  ```./start.sh```
+
+Diretamente no ambiente local (é pré-requisito ter o .NET SDK instalado na máquina)
+- Iniciar build e run da aplicação:
+
+  ```dotnet run```
